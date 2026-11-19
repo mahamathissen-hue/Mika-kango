@@ -1,6 +1,6 @@
 # Mika-kango
 
-![GitHub Actions](https://github.com/mahamathissen-hue/Mika-kango/actions/workflows/main.yml/badge.svg)
+[![GitHub Actions](https://github.com/mahamathissen-hue/Mika-kango/actions/workflows/main.yml/badge.svg)](https://github.com/mahamathissen-hue/Mika-kango/actions/workflows/main.yml)
 
 ## 📱 Communication
 
