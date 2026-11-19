@@ -1,0 +1,14 @@
+
+name: Mika-kango Automation
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome
+        run: echo "Mika-kango fonctionne correctement !"
